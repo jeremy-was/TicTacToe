@@ -194,9 +194,9 @@ def quit_game():
             quit_me = False
             continue_game = False
             print('\n'*30)
-            print('\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
+            print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
             print('\nSorry to see you quit. Thanks for playing Tic Tac Toe, from Mukas\n')
-            print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n')
+            print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
 
 def play_again():
 
@@ -213,9 +213,9 @@ def play_again():
             play_true = False
         elif play == 'n' or play == 'N':
             print('\n'*30)
-            print('\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
+            print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
             print('\nThanks for playing Tic Tac Toe, from Mukas\n')
-            print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n')
+            print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
             play_true = False
             pass
 
