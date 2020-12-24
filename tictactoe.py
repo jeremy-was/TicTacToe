@@ -196,7 +196,7 @@ def quit_game():
             print('\n'*30)
             print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
             print('\nSorry to see you quit. Thanks for playing Tic Tac Toe, from Mukas\n')
-            print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
+            print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n')
 
 def play_again():
 
