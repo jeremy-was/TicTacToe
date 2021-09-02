@@ -23,7 +23,7 @@ def players():
 
     print('\n'*30)
     print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -')
-    print('Welcome to a crappy version of Tic Tac Toe!, created by Mukas')
+    print('Welcome to a ****** version of Tic Tac Toe!, created by Jeremy')
     print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -')
     print('\n'*3)
 
@@ -195,7 +195,7 @@ def quit_game():
             continue_game = False
             print('\n'*30)
             print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
-            print('\nSorry to see you quit. Thanks for playing Tic Tac Toe, from Mukas\n')
+            print('\nSorry to see you quit. Thanks for playing Tic Tac Toe\n')
             print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n')
 
 def play_again():
@@ -214,7 +214,7 @@ def play_again():
         elif play == 'n' or play == 'N':
             print('\n'*30)
             print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
-            print('\nThanks for playing Tic Tac Toe, from Mukas\n')
+            print('\nThanks for playing Tic Tac Toe\n')
             print('- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ')
             play_true = False
             pass
